@@ -15,7 +15,6 @@ public class AppController {
         // de este modo para poder ejecutar los test
         CargarDatosModel cargarDatos = new CargarDatosModel();
         cargarDatos.cargarDatos(BBDD);
-
     }
 
     // Inicio del menu de la APP.
